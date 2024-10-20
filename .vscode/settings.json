@@ -1,0 +1,14 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "8.OOPS",
+        "7.String",
+        "4.Loops",
+        "14.CollectionFramework+Generics",
+        "13.FileHandling",
+        "11.ExceptionHandling",
+        "10.BigInteger",
+        "1.Intro",
+        "9.arrayList"
+    ]
+}
