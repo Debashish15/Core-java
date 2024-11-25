@@ -2,7 +2,7 @@ package Decisionmaking;
 
 import java.util.*;
 
-import Operator.sumOfNatural;
+// import Operator.sumOfNatural;
 public class Decisionmaking{
     public static void main(String[] args) {
         

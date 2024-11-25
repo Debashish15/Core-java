@@ -1,6 +1,5 @@
 // formula a+(n-1)*1;
 
-
 package Operator;
 import java.util.*;
 
